@@ -5,7 +5,7 @@
 	<publisher>Schmoozecom.com</publisher>
     <license>Commercial</license>
 	<repo>unsupported</repo>
-	<category>Administration</category>
+	<category>Admin</category>
 	<description>Add servers users can import contacts from</description>
 	<changelog>
 		2.10.0.7 ari bug fixes

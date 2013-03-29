@@ -5,7 +5,6 @@ $sql[] = "DROP TABLE contactdir_server_types";
 $sql[] = "DROP TABLE contactdir_servers";
 $sql[] = "DROP TABLE contactdir_list";
 $sql[] = "DROP TABLE contactdir_details";
-$sql[] = "FLUSH TABLES";
 
 foreach ($sql as $statement)
 {
