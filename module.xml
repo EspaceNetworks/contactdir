@@ -21,6 +21,6 @@
 	<menuitems>
 		<contactdir>Contact Directory Servers</contactdir>
 	</menuitems>
-	<location>release/2.10/contactdir-2.10.0.7.tgz</location>
-	<md5sum>0f9ad8382590e8ac9eb168212b761b3e</md5sum>
+	<location>release/2.11/contactdir-2.10.0.8.tgz</location>
+	<md5sum>e6428aa473646e4d155103d1c51ba337</md5sum>
 </module>
