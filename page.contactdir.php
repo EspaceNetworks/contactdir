@@ -1,7 +1,7 @@
 <?php
 if (!defined('FREEPBX_IS_AUTH')) { die('No direct script access allowed');}
 	$edit = $_GET['edit'];
-	//freepbx_debug('$edit');freepbx_debug($edit);
+	
 	$servertype = false;
 	$servername = false;
 	$serverhost = false;
@@ -18,12 +18,8 @@ if (!defined('FREEPBX_IS_AUTH')) { die('No direct script access allowed');}
 	}
 
 	$servers = contactdir_get_all_servers();
-	//freepbx_debug('$servers');freepbx_debug($servers);
 	$server_types = contactdir_get_all_server_types();
-	//freepbx_debug('$server_types');freepbx_debug($server_types);
 ?>
-
-</div>
 
 <h2>Contact Directory Servers</h2>
 
