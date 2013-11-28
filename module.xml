@@ -23,4 +23,4 @@
 	</menuitems>
 	<location>release/2.11/contactdir-2.10.0.8.tgz</location>
 	<md5sum>e6428aa473646e4d155103d1c51ba337</md5sum>
-</module>
+<supported><version>2.10</version></supported></module>
