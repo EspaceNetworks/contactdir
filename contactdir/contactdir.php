@@ -256,7 +256,7 @@ function search($term){
 			}
 		}
 	}else{
-		$term=mysql_real_escape_string($term).'%';
+		$term=$db->escapeSimple($term).'%';
 		$sql='SELECT last_name, first_name, id FROM contactdir_list WHERE first_name LIKE ? or last_name LIKE ? and extension = ?';
 		$contacts=$db->getAll($sql, array($term, $term, $user), DB_FETCHMODE_ASSOC);
 		if ($includelocal == '1'){//include local contacs as well
