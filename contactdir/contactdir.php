@@ -1,30 +1,6 @@
 <?php
-
- /*
-  *	Contact Directory XML Application for Aastra Phones
-  *		 
-  *	Copyright (C) 2009 Moshe Brevda
-  *	moshe.brevda@schmoozecom.com
-  *	  
-  *	All rights reserved.  THIS COPYRIGHT NOTICE MUST NOT BE REMOVED
-	* UNDER ANY CIRCUMSTANCES.
-  * 
-  * 
-  * This program is free software; you can redistribute it and/or
-  * modify it under the terms of the GNU Affero General Public License
-  * as published by the Free Software Foundation; either version
-  * of the License, or (at your option) any later version.
-  * 
-  * This program is distributed in the hope that it will be useful,
-  * but WITHOUT ANY WARRANTY; without even the implied warranty of
-  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  * GNU General Public License for more details.
-  * 
-  * This program is distributed in the hope that it will be useful,
-  * but WITHOUT ANY WARRANTY; without even the implied warranty of		  
-  *
-  */
-	
+//	License for all code of this FreePBX module can be found in the license file inside the module directory
+//	Copyright 2013 Schmooze Com Inc.
 	
  /* 
  	* set application to call like: contactdir.php?user=$$SIPUSRENAME$$

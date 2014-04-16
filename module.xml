@@ -1,13 +1,15 @@
 <module>
 	<rawname>contactdir</rawname>
 	<name>Contact Directory</name>
-	<version>2.11.0.1</version>
-	<publisher>Schmoozecom.com</publisher>
-    <license>Commercial</license>
+	<version>2.11.0.2</version>
+	<publisher>Schmooze Com Inc</publisher>
+	<license>GPLv3+</license>
+	<licenselink>http://www.gnu.org/licenses/gpl-3.0.txt</licenselink>
 	<repo>unsupported</repo>
 	<category>Settings</category>
 	<description>Add servers users can import contacts from</description>
 	<changelog>
+		*2.11.0.2* Update license file
 		*2.11.0.1* Use new abstraction layer
 		*2.11.0.0* bump version
 		*2.10.0.9* fix errant div closure
