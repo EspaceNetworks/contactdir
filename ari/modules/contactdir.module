@@ -649,7 +649,6 @@ class contactdir{
 		return $ret;
 	}
 	
-		//stolen from Ethans MagicHelpers.class.php. If it doesnt work ITS HIS FAULT!!!
 	function write_grammar(){
 	global $db;
 	
